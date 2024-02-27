@@ -37,6 +37,6 @@ in this case kunnen we gwoon
 ```
 python bijbehorend.py
 ```
-doen in de **CMD prompt**in de current directory
+doen in de **CMD prompt** in de current directory
 
 Voila wees maar vrij om bijbehorend.py door te lezen en het te veranderen!
