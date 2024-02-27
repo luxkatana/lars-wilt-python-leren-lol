@@ -9,7 +9,7 @@ JK nee lol zijn gewoon tekst die niet wordt gelezen door puthon!
 dit kan handig zijn om jouw vrienden ff wat code te sturen en wat comments geven wat je code doet
 
 voorbeeld hoe je dat doet in puthon
-```
+```py
 # lol dit is een comment
 # ik hou van mannen
 # Joseph stalin: dit is ONZE stuk brood
